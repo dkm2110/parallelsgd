@@ -1,0 +1,51 @@
+\begin{thebibliography}{10}
+
+\bibitem{bottou2010}
+L.~Bottou, ``Large-scale machine learning with stochastic gradient descent,''
+  in {\em COMPSTAT'2010}, pp.~177--187, 2010.
+
+\bibitem{leroux2012}
+N.~Le~Roux, M.~Schmidt, and F.~Bach, ``A stochastic gradient method with an
+  exponential convergence rate for strongly convex optimization with finite
+  training sets,'' in {\em arXiv}, 2012.
+
+\bibitem{johnson2013}
+R.~Johnson and T.~Zhang, ``Accelerating stochastic gradient descent using
+  predictive variance reduction,'' {\em NIPS}, 2013.
+
+\bibitem{hsieh2008}
+C.~Hsieh, K.~Chang, C.~Lin, S.~Keerthi, and S.~Sundararajan, ``A dual
+  coordinate descent method for large-scale linear svm,'' in {\em ICML},
+  pp.~408--415, 2008.
+
+\bibitem{zinkevich2010}
+M.~Zinkevich, M.~Weimer, A.~Smola, and L.~Li, ``Parallelized stochastic
+  gradient descent,'' in {\em NIPS}, pp.~2595--2603, 2010.
+
+\bibitem{mann2009}
+G.~Mann, R.~McDonald, M.~Mohri, N.~Silberman, and D.~Walker, ``Efficient
+  large-scale distributed training of conditional maximum entropy models,'' in
+  {\em NIPS}, pp.~1231--1239, 2009.
+
+\bibitem{hall2010}
+K.~Hall, S.~Gilpin, and G.~Mann, ``Mapreduce/bigtable for distributed
+  optimization,'' in {\em NIPS Workshop on Leaning on Cores, Clusters, and
+  Clouds}, 2010.
+
+\bibitem{agarwal2011}
+A.~Agarwal, O.~Chapelle, M.~Dudik, and J.~Langford, ``A reliable effective
+  terascale linear learning system,'' in {\em arXiv}, 2011.
+
+\bibitem{boyd2004}
+S.~Boyd and L.~Vandenberghe, {\em Convex optimization}.
+\newblock Cambridge, UK: Cambridge University Press, 2004.
+
+\bibitem{chu2006}
+C.~Chu, S.~Kim, Y.~Lin, Y.~Yu, G.~Bradski, A.~Ng, and K.~Olukotun, ``Map-reduce
+  for machine learning on multicore,'' {\em NIPS}, pp.~281--288, 2006.
+
+\bibitem{lin2008}
+C.~Lin, R.~Weng, and S.~Keerthi, ``Trust region newton method for large-scale
+  logistic regression,'' {\em JMLR}, pp.~627--650, 2008.
+
+\end{thebibliography}
